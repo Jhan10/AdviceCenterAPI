@@ -4,7 +4,8 @@
   "description": "Central da API Advice",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node api/index.js",
+    "test": "echo testing advicecenterapi"
   },
   "repository": {
     "type": "git",
@@ -17,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Jhan10/AdviceCenterAPI/issues"
   },
-  "homepage": "https://github.com/Jhan10/AdviceCenterAPI#readme"
+  "homepage": "https://github.com/Jhan10/AdviceCenterAPI#readme",
+  "dependencies": {
+    "dotenv": "^18.0.4"
+  }
 }
