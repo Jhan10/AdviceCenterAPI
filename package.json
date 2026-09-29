@@ -1,0 +1,21 @@
+{
+  "name": "advicecenterapi",
+  "version": "1.0.0",
+  "description": "Central da API Advice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jhan10/AdviceCenterAPI.git"
+  },
+  "keywords": [],
+  "author": "gjesus",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Jhan10/AdviceCenterAPI/issues"
+  },
+  "homepage": "https://github.com/Jhan10/AdviceCenterAPI#readme"
+}
